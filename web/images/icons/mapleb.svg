@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="107.82mm" height="96.941mm" version="1.1" viewBox="0 0 107.82 96.941" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-43.375 -148.35)">
+  <g transform="translate(27.796 5.9868)">
+   <g transform="translate(-12.745 118.58)" style="paint-order:stroke fill markers">
+    <path d="m81.592 23.776-25.098 13.002 24.493 45.055h2.4944l24.493-45.055-25.098-13.002-0.64286 41.124z" style="paint-order:stroke fill markers"/>
+    <g transform="translate(-.70789)" style="paint-order:stroke fill markers">
+     <path d="m29.456 66.533 18.987-16.331 28.936 35.031-0.32483 0.80749-0.17498 0.43497-0.325 0.80792-45.133 5.2353-2.389-24.929 34.016 13.07z" style="paint-order:stroke fill markers"/>
+     <path d="m136.43 66.533-18.987-16.331-28.936 35.031 0.49981 1.2425 0.325 0.80792 45.133 5.2353 2.389-24.929-34.016 13.07z" style="paint-order:stroke fill markers"/>
+    </g>
+    <g transform="translate(-.39357)" style="paint-order:stroke fill markers">
+     <path d="m50.266 114.31-3.3915-14.99 27.314-5.6096 0.34431 0.40837 0.18547 0.21998 0.3445 0.40858-10.144 25.973-14.202-5.8758 16.87-14.681z" style="paint-order:stroke fill markers"/>
+     <path d="m114.99 114.31 3.3915-14.99-27.314-5.6096-0.3443 0.40837-0.18547 0.21998-0.3445 0.40858 10.144 25.973 14.202-5.8758-16.87-14.681z" style="paint-order:stroke fill markers"/>
+    </g>
+   </g>
+   <path d="m76.481 233.36h-13.982l6.9911-20.895z"/>
+  </g>
+ </g>
+</svg>
